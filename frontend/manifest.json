@@ -1,0 +1,16 @@
+﻿{
+    "name":  "Josphat Labs",
+    "short_name":  "Josphat Labs",
+    "start_url":  "/",
+    "display":  "standalone",
+    "background_color":  "#0b1020",
+    "theme_color":  "#0b1020",
+    "description":  "Josphat Omondi â€” full-stack developer and AI builder.",
+    "icons":  [
+                  {
+                      "type":  "image/png",
+                      "sizes":  "any",
+                      "src":  "/favicon.png"
+                  }
+              ]
+}

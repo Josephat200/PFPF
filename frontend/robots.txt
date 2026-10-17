@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://your-frontend-site.netlify.app/sitemap.xml
